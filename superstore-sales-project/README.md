@@ -58,7 +58,7 @@ How can the company improve sales performance and identify the most profitable c
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](imgaes/dashboard.png)
+![Dashboard](images/dashboard.png)
 
 ---
 
