@@ -1,3 +1,5 @@
+![Dashboard](superstore-sales-project/images/dashboard.png)
+
 # 📊 Superstore Sales Analysis
 Data analysis &amp; dashboard using Superstore dataset
 
