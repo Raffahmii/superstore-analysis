@@ -1,3 +1,4 @@
+## 📊 Dashboard Preview
 ![Dashboard](superstore-sales-project/images/dashboard.png)
 
 # 📊 Superstore Sales Analysis
@@ -21,9 +22,6 @@ This project analyzes sales data from a retail dataset to uncover insights and t
 
 ## 📂 Dataset
 Superstore Sales Dataset (Kaggle)
-
-## 📊 Dashboard Preview
-![Dashboard](superstore-sales-project/images/dashboard.png)
 
 ## 🚀 Conclusion
 This project helps understand business performance and supports data-driven decision making.
